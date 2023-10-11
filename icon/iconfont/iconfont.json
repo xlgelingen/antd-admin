@@ -6,6 +6,97 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1304886",
+      "name": "收起菜单",
+      "font_class": "shouqicaidan",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "87388",
+      "name": "edit",
+      "font_class": "bi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2553187",
+      "name": "首页-签名设置",
+      "font_class": "qianmingshezhi",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "11975952",
+      "name": "表格",
+      "font_class": "zu",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "19818659",
+      "name": "公司简介",
+      "font_class": "gongsijianjie",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "37642933",
+      "name": "ok-copy",
+      "font_class": "ok-copy",
+      "unicode": "eca0",
+      "unicode_decimal": 60576
+    },
+    {
+      "icon_id": "37642936",
+      "name": "警告-copy",
+      "font_class": "jinggao1-copy",
+      "unicode": "eca1",
+      "unicode_decimal": 60577
+    },
+    {
+      "icon_id": "37642938",
+      "name": "人物-人-copy",
+      "font_class": "renwu-ren-copy",
+      "unicode": "eca2",
+      "unicode_decimal": 60578
+    },
+    {
+      "icon_id": "37642929",
+      "name": "运维中心-copy",
+      "font_class": "yunweizhongxin-copy",
+      "unicode": "ec9f",
+      "unicode_decimal": 60575
+    },
+    {
+      "icon_id": "2019067",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou1",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "29754405",
+      "name": "头部-文字大小",
+      "font_class": "toubu-wenzidaxiao",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "201561",
+      "name": "3.1铃铛",
+      "font_class": "lingdang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "3456456",
+      "name": "帮助与说明",
+      "font_class": "bangzhuyushuoming",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
       "icon_id": "4510302",
       "name": "语音帮助",
       "font_class": "yuyinbangzhu",
