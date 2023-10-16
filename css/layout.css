@@ -7,7 +7,6 @@ body{
     'Noto Color Emoji';
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-    /* background: #F0F2F5; */
 }
 
 .page-header{
@@ -85,8 +84,6 @@ body{
 }
 
 .page-sider{
-    /* position: fixed;
-    left: 0; */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -146,7 +143,6 @@ body{
     display: flex;
     justify-content: space-between;
     width: 208px;
-    /* height: 40px; */
     padding: 0px 16px 0px 16px;    
 
     .expand-top-left{
@@ -182,7 +178,6 @@ body{
     .sublist-item{
         margin-top: 8px;
         width: 208px;
-        /* height: 40px; */
         padding: 0px 24px 0px 40px;
         font-family: Roboto;
         font-size: 14px;
@@ -209,7 +204,6 @@ body{
 }
 
 .sider-trigger{
-    /* width: 208px; */
     height: 40px;
     padding: 0px 16px 0px 16px;
     line-height: 40px;

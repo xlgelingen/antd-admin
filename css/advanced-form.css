@@ -30,7 +30,6 @@
 }
 
 .mainer-header-section{
-    /* height: 131px; */
     padding: 16px 24px 16px 24px;
     background: #FFFFFF;
 }
@@ -213,8 +212,6 @@
     .iconfont{
         color : #00000040;
         line-height: 30.4px;
-        /* border-bottom: 1px solid #D9D9D9; */
-        /* border-top: 1px solid #D9D9D9; */
     }
     .icon-shijian{
         margin-right: 12px;
@@ -239,7 +236,6 @@
 .footer-box{
     padding: 48px 16px 24px 16px;
     text-align: center;
-    /* background: #FFFFFF; */
 
 }
 .footer-link{
