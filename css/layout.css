@@ -61,8 +61,7 @@ body{
         font-size: 12px;
         text-align: center;
         line-height: 20px;
-    }
-    
+    }   
 }
 
 .id-box{
@@ -92,7 +91,6 @@ body{
     box-shadow: 0px 2px 8px 0px #00000026;
     overflow: hidden;
     z-index: 1;
-
 }
 .sider-expand{
     width: 208px;
